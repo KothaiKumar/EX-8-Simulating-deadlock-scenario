@@ -1,5 +1,5 @@
 # EX 8: Simulating deadlock scenario
-## Date: 
+## Date: 22-09-2023
 ## AIM: 
 To simulate a scenario of deadlock in concurrent execution of transactions.
 ## PROCEDURE:
@@ -20,7 +20,6 @@ INSERT INTO Accounts VALUES(2, 2500.00);
 ```
 ## OUTPUT
 ![image](https://github.com/dineshgl/EX-8-Simulating-deadlock-scenario/assets/143793356/2f35d3f2-474d-4366-ade6-d0a151da1d2c)
-
 ## Now, let's set up the two transactions T1 and T2:
 ## Transaction T1
 ```sql
